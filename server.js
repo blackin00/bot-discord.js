@@ -17,4 +17,4 @@ bot.on("message", (message) => { // aqui iremos definir um paramêtro, para usar
   }
 }) // aqui é o segundo evento, e uns dos mais essenciais, sobre comandos e etc. e sempre será ativo quando uma nova mensagem for detectada em um canal/DM
 
-bot.login("ODU0NDgxNzE3MjMzOTc1MzI1.YMkkHA.PWrOzt3BbPrVhugYpnURgQKpqCI") // aqui, irá iniciar uma instancia na API com o token do bot no client.
+bot.login("") // aqui, irá iniciar uma instancia na API com o token do bot no client.
